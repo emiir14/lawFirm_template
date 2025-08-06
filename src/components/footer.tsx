@@ -45,9 +45,7 @@ export function Footer() {
           <div className="space-y-4">
             <h3 className="text-lg font-serif font-semibold">Horario de Oficina</h3>
             <ul className="space-y-2 text-primary-foreground/80">
-              <li>Lunes - Viernes: 9:00 AM - 6:00 PM</li>
-              <li>Sábado: 10:00 AM - 2:00 PM</li>
-              <li>Domingo: Cerrado</li>
+              <li>A convenir con cita previa</li>
             </ul>
           </div>
         </div>
