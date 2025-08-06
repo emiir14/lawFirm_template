@@ -64,7 +64,7 @@ export function AboutSection() {
           >
             <div className="rounded-lg overflow-hidden">
               <img
-                src="https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=2069"
+                src="https://i.imgur.com/D58m8LQ.png"
                 alt="Our legal team"
                 className="w-full h-auto object-cover rounded-lg"
               />

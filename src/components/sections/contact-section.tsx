@@ -62,7 +62,7 @@ export function ContactSection() {
                     <div>
                       <h3 className="font-medium">Teléfonos</h3>
                       <p className="text-muted-foreground">
-                        <span className="block">Dra. Paula Valeria Gervan: 3834-683815</span>
+                        <span className="block">Dra. Paula Valeria Gerván: 3834-683815</span>
                         <span className="block">Dr. Pablo Esteban Correa: 3834-354605</span>
                         <span className="block">Dra. Carolina Ale: 3834-649233</span>
                       </p>
@@ -104,7 +104,7 @@ export function ContactSection() {
                     <Phone className="w-5 h-5 text-primary" />
                   </div>
                   <div>
-                    <div className="font-medium">Dra. Paula Valeria Gervan</div>
+                    <div className="font-medium">Dra. Paula Valeria Gerván</div>
                     <div className="text-muted-foreground">3834-683815</div>
                   </div>
                 </div>
@@ -148,7 +148,6 @@ export function ContactSection() {
                   <div>
                     <div className="font-medium">Instagram</div>
                     <div className="text-muted-foreground">
-                      <div>https://www.instagram.com/valegervan</div>
                       <div>https://www.instagram.com/oso_correa</div>
                       <div>https://www.instagram.com/carolinaale1</div>
                     </div>
