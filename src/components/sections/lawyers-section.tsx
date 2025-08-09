@@ -11,7 +11,7 @@ const lawyers = [
       "Prescripciones Adquisitivas"],
     mat: "MP 2041 - MF Tomo 112 - folio 567",
     image: 
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQq6ULGn_i9qOq_8a_IHVv5nONOieep9Iw7w&s",
+      "/uploads/valeImage.png",
   },
   {
     name: "Dr. Pablo Esteban Correa",
@@ -20,8 +20,9 @@ const lawyers = [
       "Derecho Administrativo",
       "Derecho Parlamentario",
     ],
+    mat: "MP 3350 - MF Tomo 190 - folio 64",
     image: 
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQq6ULGn_i9qOq_8a_IHVv5nONOieep9Iw7w&s",
+    "/uploads/osoImage.jpg",
   },
   {
     name: "Dra. Carolina Ale",
@@ -34,7 +35,7 @@ const lawyers = [
     ],
     mat: "MP 2061 - MF Tomo 112 - folio 572",
     image:
-      "https://i.imgur.com/fxVhOUS.jpeg",
+      "/uploads/caroImage.jpg",
   },
 ];
 
