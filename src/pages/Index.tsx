@@ -5,6 +5,7 @@ import { AboutSection } from "@/components/sections/about-section";
 import { LawyersSection } from "@/components/sections/lawyers-section";
 import { ContactSection } from "@/components/sections/contact-section";
 import { Footer } from "@/components/footer";
+import { WhatsAppButton } from "@/components/whatsapp-button"
 
 export default function HomePage() {
   return (
@@ -17,6 +18,7 @@ export default function HomePage() {
         <ContactSection />
         <Footer />
       </AnimatedBackground>
+      <WhatsAppButton />
     </div>
   );
 }

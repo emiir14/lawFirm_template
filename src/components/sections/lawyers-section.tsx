@@ -11,7 +11,7 @@ const lawyers = [
       "Prescripciones Adquisitivas"],
     mat: "MP 2041 - MF Tomo 112 - folio 567",
     image: 
-      "/uploads/valeImage.png",
+      "/uploads/valeImage.jpg",
   },
   {
     name: "Dr. Pablo Esteban Correa",
